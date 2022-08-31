@@ -8,7 +8,7 @@ h1 {
 body {
     background-color: rgb(228, 202, 168);
 }
-div {
+.teaMenu {
     width: 80%;
     /* background-color: rgb(228, 202, 168) ; */
     background-color: rgb(255, 157, 10);
